@@ -1,33 +1,33 @@
-NoSql DBs are a specific king of Relational DBs { F
+NoSQL DBs are a specific kind of Relational DBs { F
 }
 
-What is the meaning of ACID ? {
+What is the meaning of ACID? {
 ~Anonymization, Cloud, Infrastructure, Decoupling
 =Atomicity, Consistency, Isolation, Durability
 ~Agnostic, Cloud-first, Infinite, Dual-Band
 }
 
-Qualify Relational DB {
+Qualify Relational DBs {
 ~easily scale horizontaly
 =are mainly arrays
 ~are a modern way of storing data
 =are still used in modern architectures
 }
 
-At a given time, it is easy to reach Consistency, Availability and Partition tolerance at once{
+At a given time, it is easy to reach Consistency, Availability and Partition tolerance at once {
 F
 }
 
-Relational DB focus on {
+Relational DBs focus on {
 =Consistency
 =Availability
 ~Partition tolerance
 }
 
-NoSql appeared in the late 1990's { F
+NoSQL appeared in the late 1990s { F
 }
 
-Which of those are NoSql DBs? {
+Which of those are NoSQL DBs? {
 =Document DB
 =Key Value DB
 ~Relationnal DB
@@ -42,14 +42,14 @@ NoSQL can store: {
 }
 
 What are the advantages of NoSQL? {
-=they use low commodity hardware
-~it supports fully
+=they use commodity hardware
+~it fully supports SQL
 ~all DBs share the same SDK
 =they easily scale
 ~they focus on ACID properties
 }
 
-KeyValue DB can be compared to HashTables {T
+Key Value DBs can be compared to HashTables {T
 }
 
 Which NoSQL family Cassandra belongs to? {
